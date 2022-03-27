@@ -1,0 +1,82 @@
+body{
+    background-color: gold;
+}
+
+.genel_yazi{
+    color:tomato;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.merkez_div{
+    width: 1400px;
+    height: 870px;
+}
+
+.baslik{
+    width: auto;
+    height: 30px;
+    margin: 0px 0px 0px 690px;
+    background-color: tomato;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color:gold;
+}
+
+.patates{
+    margin: 50px 0px 0px 755px;
+}
+
+.birinci_yazi{
+    width: 1400px;
+    height: 100px;
+    color:gold;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    text-align:center;
+    margin: 0px 0px 0px 150px;
+    background-color:tomato;
+    border-radius: 30px;
+}
+
+.ikinci_yazi{
+    width: 600px;
+    height: 170px;
+    color:gold;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    text-align:center;
+    margin: 20px 0px 0px 550px;
+    background-color: tomato;
+    border-radius: 50px;
+}
+
+.ucuncu_yazi{
+    width: 600px;
+    height: 235px;
+    color:gold;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    text-align:center;
+    margin: 20px 0px 0px 550px;
+    background-color: tomato;
+    border-radius: 20px;
+}
+
+.afiyet_olsun{
+    width: 860px;
+    height: 100px;
+    color:gold;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    text-align:center;
+    margin: 20px 0px 0px 420px;
+    background-color: tomato;
+    border-radius: 20px;
+    font-size: 35px;
+}
